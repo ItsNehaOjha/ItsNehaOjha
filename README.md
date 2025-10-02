@@ -54,7 +54,7 @@ Interactive game with AI opponent using minimax algorithm.
 <a href="https://leetcode.com/u/neha__ojha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="neha__ojha" height="30" width="40" /></a>
 <a href="https://x.com/nehaojha1528" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nehaojha1528" height="30" width="40" /></a>
 <a href="https://instagram.com/neha__ojha._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="neha__ojha._" height="30" width="40" /></a>
-<a href="https://linktr.ee/nehawebd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linktree.svg" alt="nehawebd" height="30" width="40" /></a>
+<a href="https://linktr.ee/nehawebd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linktree.svg" alt="nehawebd" height="30" width="40" /></a>
 </p>
 
 ## 🛠️ Technologies & Tools:
@@ -101,9 +101,13 @@ Interactive game with AI opponent using minimax algorithm.
 
 ## 🎓 Education
 
-**Bachelor of Computer Applications (BCA)**  
-Galgotias University, Greater Noida (2021-2024)  
-CGPA: 8.5/10
+**Bachelor of Technology in Computer Science**  
+AKTU Lucknow (2023-2027)  
+Currently pursuing B.Tech in Computer Science with focus on software development, algorithms, and modern web technologies.
+
+**Secondary Education**  
+Kendriya Vidyalaya (2021)  
+10th Grade: 8.9 CGPA | 12th Grade: 8.7 CGPA
 
 ## 🏅 Achievements & Certifications
 
