@@ -102,11 +102,11 @@ Interactive game with AI opponent using minimax algorithm.
 ## 🎓 Education
 
 **Bachelor of Technology in Computer Science**  
-AKTU Lucknow (2023-2027)  
-Currently pursuing B.Tech in Computer Science with focus on software development, algorithms, and modern web technologies.
+IMSEC Gaziabad Uttar Pradesh (2023-2027)  
+Currently pursuing B.Tech in Computer Science 
 
 **Secondary Education**  
-Kendriya Vidyalaya (2021)  
+Kendriya Vidyalaya (2018-2020)  
 10th Grade: 8.9 CGPA | 12th Grade: 8.7 CGPA
 
 ## 🏅 Achievements & Certifications
