@@ -1,9 +1,13 @@
-![Header](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)
+<div align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif" alt="Header" width="100%"/>
+</div>
 
 <h1 align="center">Hi 👋, I'm Neha Ojha</h1>
 <h3 align="center">MERN Stack Developer | Java Problem Solving Enthusiast from India</h3>
 
-<img align="right" alt="Coding" width="400" height="300" src="https://i.pinimg.com/originals/51/8a/fb/518afb1d1cdc07eb7d2b1729f03fe91e.gif">
+<div align="center">
+  <img align="center" alt="Coding" width="400" height="300" src="https://i.pinimg.com/originals/51/8a/fb/518afb1d1cdc07eb7d2b1729f03fe91e.gif">
+</div>
 
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=itsnehaojha&label=Profile%20views&color=0e75b6&style=flat" alt="itsnehaojha" />
@@ -17,7 +21,7 @@
 - 🤝 I'm looking for help with **Software Engineering Opportunities & Building Developer Communities**
 - 💬 Ask me about **JavaScript, React, Node.js, MongoDB, Java, Python, Full-Stack Development**
 - 📫 How to reach me **ojhaneha0028@gmail.com**
-- 🌐 Portfolio: **[nehaojha.io](https://nehaojha.io)**
+- 🌐 Portfolio: **[itsnehaojha.github.io/JobPortfolio](https://itsnehaojha.github.io/JobPortfolio/)**
 - ⚡ Fun fact **I love solving algorithmic challenges and building scalable web applications!**
 
 ## 🌟 Featured Projects
@@ -48,9 +52,9 @@ Interactive game with AI opponent using minimax algorithm.
 <a href="https://www.linkedin.com/in/neha-ojha0028/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neha-ojha0028" height="30" width="40" /></a>
 <a href="https://github.com/ItsNehaOjha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="itsnehaojha" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/neha__ojha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="neha__ojha" height="30" width="40" /></a>
-<a href="https://twitter.com/neha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="neha ojha" height="30" width="40" /></a>
+<a href="https://x.com/nehaojha1528" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nehaojha1528" height="30" width="40" /></a>
 <a href="https://instagram.com/neha__ojha._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="neha__ojha._" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@ojhaneha0028" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@ojhaneha0028" height="30" width="40" /></a>
+<a href="https://linktr.ee/nehawebd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linktree.svg" alt="nehawebd" height="30" width="40" /></a>
 </p>
 
 ## 🛠️ Technologies & Tools:
