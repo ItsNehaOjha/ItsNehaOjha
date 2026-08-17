@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif" alt="Header" width="100%"/>
+  <a href="https://ibb.co/fdV2j70m"><img src="https://i.ibb.co/fdV2j70m/Chat-GPT-Image-Aug-17-2026-11-51-57-PM.png" alt="Chat-GPT-Image-Aug-17-2026-11-51-57-PM" border="0"></a>
 </div>
 
 <h1 align="center">Hi 👋, I'm Neha Ojha</h1>
