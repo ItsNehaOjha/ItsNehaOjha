@@ -1,127 +1,313 @@
 <div align="center">
-  <a href="https://ibb.co/fdV2j70m"><img src="https://i.ibb.co/fdV2j70m/Chat-GPT-Image-Aug-17-2026-11-51-57-PM.png" alt="Chat-GPT-Image-Aug-17-2026-11-51-57-PM" border="0"></a>
-</div>
 
-<h1 align="center">Hi 👋, I'm Neha Ojha</h1>
-<h3 align="center">MERN Stack Developer | Java Problem Solving Enthusiast from India</h3>
+<img
+  src="https://i.postimg.cc/PrNC3Wbq/github-banner.png"
+  alt="Neha Ojha - Developer Banner"
+  width="100%"
+/>
 
-<div align="center">
-  <img align="center" alt="Coding" width="400" height="300" src="https://i.pinimg.com/originals/51/8a/fb/518afb1d1cdc07eb7d2b1729f03fe91e.gif">
-</div>
+<h1>
+  Hi 👋, I'm Neha Ojha
+</h1>
 
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=itsnehaojha&label=Profile%20views&color=0e75b6&style=flat" alt="itsnehaojha" />
-</div>
+<h3>
+  Software Developer | MERN Stack | Java Problem Solving | Backend & REST APIs
+</h3>
 
-## 🚀 About Me
-
-- 🔭 I'm currently working on **Full-Stack MERN Applications & Java Problem Solving**
-- 🌱 I'm currently learning **Advanced React Patterns, Node.js Optimization, System Design**
-- 👯 I'm looking to collaborate on **Open Source Projects, Full-Stack Web Applications, Problem Solving**
-- 🤝 I'm looking for help with **Software Engineering Opportunities & Building Developer Communities**
-- 💬 Ask me about **JavaScript, React, Node.js, MongoDB, Java, Python, Full-Stack Development**
-- 📫 How to reach me **ojhaneha0028@gmail.com**
-- 🌐 Portfolio: **[itsnehaojha.github.io/JobPortfolio](https://itsnehaojha.github.io/JobPortfolio/)**
-- ⚡ Fun fact **I love solving algorithmic challenges and building scalable web applications!**
-
-## 🌟 Featured Projects
-
-### 🔥 [BuddyForum](https://buddyforum.onrender.com/)
-Full-stack discussion forum with real-time interactions and community engagement features.
-**Tech Stack:** React, Node.js, MongoDB, Express
-
-### 🐦 [TweetSphere](https://xclone-5r9e.onrender.com/login)
-Social media platform with real-time messaging and interactive features.
-**Tech Stack:** React, Node.js, MongoDB, Socket.io
-
-### 📝 [NoteNex](https://notestack-g6v2.onrender.com/)
-Comprehensive note management system with CRUD operations and user authentication.
-**Tech Stack:** React, Node.js, MongoDB, JWT
-
-### 📊 [PlaylistPro](https://playlistpro.onrender.com/)
-Learning progress tracker with interactive dashboards and analytics.
-**Tech Stack:** React, Node.js, MongoDB, Chart.js
-
-### 🎮 [TicTacToe AI](https://itsnehaojha.github.io/Tic-Tac-Trio/)
-Interactive game with AI opponent using minimax algorithm.
-**Tech Stack:** JavaScript, HTML5, CSS3, AI Algorithm
-
-## 🤝 Connect with me:
-
-<p align="left">
-<a href="https://www.linkedin.com/in/neha-ojha0028/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neha-ojha0028" height="30" width="40" /></a>
-<a href="https://github.com/ItsNehaOjha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="itsnehaojha" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/neha__ojha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="neha__ojha" height="30" width="40" /></a>
-<a href="https://x.com/nehaojha1528" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nehaojha1528" height="30" width="40" /></a>
-<a href="https://instagram.com/neha__ojha._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="neha__ojha._" height="30" width="40" /></a>
-<a href="https://linktr.ee/nehawebd" target="blank"><img align="center" src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="nehawebd" height="30" /></a>
+<p>
+  B.Tech CSE • Full-Stack Development • Building Real Projects
 </p>
 
-## 🛠️ Technologies & Tools:
+<img
+  src="https://komarev.com/ghpvc/?username=ItsNehaOjha&label=Profile%20Views&color=0e75b6&style=flat"
+  alt="Profile Views"
+/>
+
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+I'm a Computer Science Engineering student focused on becoming a **strong software developer**, with hands-on experience building full-stack applications and working with real-world codebases.
+
+### Current Focus
+
+- 🧩 **Problem Solving with Java & DSA**
+- 🌐 **Full-Stack Development with MERN**
+- ⚙️ **Backend Development, REST APIs & Authentication**
+- 🗄️ **SQL, MongoDB & Database Design**
+- ☁️ **Cloud & AWS Fundamentals**
+- 🐛 **Debugging and understanding unfamiliar codebases**
+- 🏗️ **Building maintainable, production-oriented applications**
+
+I don't want to just collect technologies. My goal is to understand **how systems actually work**, build them, debug them, and explain the decisions behind them.
+
+---
+
+## 🚀 Featured Projects
+
+### 🗓️ TT Scheduler — University Timetable Management System
+
+A full-stack timetable management platform designed for students, teachers, and coordinators.
+
+**Key Features**
+
+- Student, Teacher & Coordinator portals
+- Timetable creation and publishing
+- Weekly timetable visualization
+- Authentication and role-based access
+- PDF timetable export
+- MongoDB-backed data management
+- REST API integration
+
+**Tech Stack**
+
+`React` `Node.js` `Express.js` `MongoDB` `JWT` `Tailwind CSS`
+
+🔗 [Live Project](https://tt-schedular.onrender.com/)
+
+---
+
+### 📰 Swarashtra.in — Digital News Platform
+
+A premium digital news platform focused on North Indian news and regional content.
+
+**Key Features**
+
+- RSS-based news aggregation
+- Dynamic news rendering
+- Category-based navigation
+- Search and filtering
+- Responsive news interface
+- Backend APIs
+- Automated content ingestion
+
+**Tech Stack**
+
+`Node.js` `Express.js` `SQLite` `JavaScript` `HTML` `CSS` `RSS`
+
+🔗 [Live Project](https://swarashtra.onrender.com/)
+
+---
+
+
+### 📚 PlaylistPro
+
+A learning-progress platform that converts study content into structured playlists with progress tracking.
+
+**Key Features**
+
+- Playlist management
+- Progress tracking
+- Dashboard-based visualization
+- Structured learning workflow
+- User-focused interface
+
+**Tech Stack**
+
+`React` `Node.js` `MongoDB` `Chart.js`
+
+🔗 [Live Project](https://playlistpro.onrender.com/)
+
+---
+
+### 💬 BuddyForum
+
+A full-stack discussion platform designed around community interaction and user-generated content.
+
+**Key Features**
+
+- Anonymous student discussions
+- Complaint management
+- JWT authentication
+- Role-based access control
+- Upvote-based prioritization
+- Media upload integration
+
+**Tech Stack**
+
+`React` `Node.js` `Express.js` `MongoDB` `JWT` `Cloudinary`
+
+🔗 [Live Project](https://buddyforum.onrender.com/)
+
+---
+
+### 🎮 Tic-Tac-Toe AI
+
+An interactive browser game with an AI opponent implemented using the **Minimax algorithm**.
+
+**Tech Stack**
+
+`JavaScript` `HTML5` `CSS3` `Minimax`
+
+🔗 [Live Project](https://itsnehaojha.github.io/Tic-Tac-Trio/)
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
 
 <p align="left">
-<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="42" height="42" alt="Java">
 </p>
 
-## 🏆 GitHub Trophies:
+`JavaScript (ES6+)` • `Java` • `SQL`
+
+---
+
+### 🎨 Frontend
+
 <p align="left">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsnehaojha&theme=onedark" alt="itsnehaojha" /></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="42" height="42" alt="React.js">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="42" height="42" alt="Next.js">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="42" height="42" alt="HTML5">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="42" height="42" alt="CSS3">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="42" height="42" alt="Tailwind CSS">
 </p>
 
-## 📊 GitHub Stats:
+`React.js` • `Next.js` • `HTML5` • `CSS3` • `Tailwind CSS`
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsnehaojha&show_icons=true&theme=radical&locale=en" alt="itsnehaojha" />
-</div>
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsnehaojha&show_icons=true&theme=radical&locale=en&layout=compact" alt="itsnehaojha" />
-</div>
+### ⚙️ Backend & APIs
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsnehaojha&theme=radical" alt="itsnehaojha" />
-</div>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="42" height="42" alt="Express.js">
+</p>
+
+`Node.js` • `Express.js` • `REST APIs` • `API Integration`  
+`JWT Authentication` • `RBAC` • `Middleware` • `API Design`
+
+---
+
+### 🗄️ Databases
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="42" height="42" alt="MongoDB">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="42" height="42" alt="MySQL">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="42" height="42" alt="SQLite">
+</p>
+
+`MongoDB` • `MySQL` • `SQLite`
+
+---
+
+### 🔧 Tools & Platforms
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" height="42" alt="Git">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="42" height="42" alt="GitHub">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="42" height="42" alt="Postman">
+</p>
+
+`Git` • `GitHub` • `Postman` • `Render` • `MongoDB Atlas` • `Cloudinary`
+
+---
+
+### 📚 Currently Learning
+
+`TypeScript` • `Next.js` • `AI / LLM Applications`
+
+---
 
 ## 💼 Professional Experience
 
-- **Frontend Developer** at Learnhattan (Mar 2023 – Jun 2024)
-- **Project Intern** at OaksPro Software Solutions (Aug 2022 – Nov 2022)
+### Web Developer Intern — M/S Shree Balaji Maharaj Industries
+
+**Mar 2026 – Apr 2026 · Project-Based**
+
+- Built **5+ production workflow modules** with backend integration and persistent state management.
+- Implemented **backend-driven state persistence** for reliable session recovery across user workflows.
+- Resolved production issues involving **CORS, API responses, and file uploads**.
+- Deployed production fixes while maintaining application stability and ensuring **zero disruption to existing users**.
+
+---
+
+### Frontend Developer — Learnhattan
+
+**Sep 2023 – Jun 2024 · Full-time · Remote**
+
+- Worked as a **Frontend Developer** contributing to the development of the company's web platform.
+- Contributed to a product that secured a position among the **Top 10 Grand Finalists** at the **Scale+91 National Hackathon**, hosted by Hack2Skill.
+- Collaborated with the team on **product development, problem-solving, and implementation** throughout the hackathon journey.
+- Participated with the team in the **grand finale at YASHOBHOOMI, Delhi**, competing among **500+ teams**.
+
+---
+
+## 🧠 Problem Solving
+
+I'm actively strengthening my **DSA and problem-solving skills using Java**.
+
+🏆 **580+ DSA problems solved on LeetCode using Java**
+
+🔗 [LeetCode](https://leetcode.com/u/neha__ojha/)
+
+---
 
 ## 🎓 Education
 
-**Bachelor of Technology in Computer Science**  
-IMSEC Gaziabad Uttar Pradesh (2023-2027)  
-Currently pursuing B.Tech in Computer Science 
+### Bachelor of Technology — Computer Science & Engineering
 
-**Secondary Education**  
-Kendriya Vidyalaya (2018-2020)  
-10th Grade: 8.9 CGPA | 12th Grade: 8.7 CGPA
+**IMS Engineering College, Ghaziabad, Uttar Pradesh**
 
-## 🏅 Achievements & Certifications
+**2023 – 2027**
 
-- 🔥 Active LeetCode Problem Solver (Java)
-- 🎓 Udemy Certified Frontend Development
-- 🏆 Adobe Certified Professional
-- 🧠 Large Language Models with Semantic Search Certification
+---
+
+
+## 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/neha-ojha0028/" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+    height="30"
+    width="40"
+    alt="LinkedIn"
+  />
+</a>
+
+<a href="https://github.com/ItsNehaOjha" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
+    height="30"
+    width="40"
+    alt="GitHub"
+  />
+</a>
+
+<a href="https://leetcode.com/u/neha__ojha/" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+    height="30"
+    width="40"
+    alt="LeetCode"
+  />
+</a>
+
+<a href="https://x.com/nehaojha1528" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+    height="30"
+    width="40"
+    alt="X"
+  />
+</a>
+
+</p>
+
+📧 **Email:** [ojhaneha0028@gmail.com](mailto:ojhaneha0028@gmail.com)  
+🌐 **Portfolio:** [itsnehaojha.github.io/JobPortfolio](https://itsnehaojha.github.io/JobPortfolio/)
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=itsnehaojha&style=for-the-badge&color=blue" alt="Profile Views"/>
-</div>
 
-<div align="center">
-  <h3>⭐ Don't forget to star my repositories if you find them useful! ⭐</h3>
+### Building. Debugging. Learning. Shipping.
+
 </div>
